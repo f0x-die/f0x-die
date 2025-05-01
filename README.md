@@ -12,7 +12,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,docker,django,powershell,py,raspberrypi,,postgres,redis,github,rust,linux,arch,md,postman,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,discord,docker,django,powershell,py,raspberrypi,postgres,redis,github,rust,linux,arch,md,postman,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
